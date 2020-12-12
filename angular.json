@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ProyectoAngularMongo"
+    }
+  },
+  "defaultProject": "ProyectoAngularMongo",
+  "cli": {
+    "analytics": false
+  }
 }
